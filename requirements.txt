@@ -1,0 +1,12 @@
+python-dotenv
+tqdm
+pandas
+numpy
+pyyaml
+requests
+pinecone-client
+voyageai
+sentence-transformers  
+transformers            
+torch                  
+spacy                   
